@@ -10,7 +10,7 @@ Sanya Oceanographic Institution, Ocean University of China
 
 † corresponding author: yuzhibin@ouc.edu.cn; Project website: https://github.com/yzbouc/FS48
 
-This repository contains the official implementation and dataset of the paper "Take good care of your fish: fish re-identification with synchronized multi-view camera system" 
+This repository contains the dataset of the paper "Take good care of your fish: fish re-identification with synchronized multi-view camera system" 
 https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1429459/full
 
 
