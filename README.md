@@ -16,7 +16,7 @@ https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.
 
 > We constructed the first underwater fish re-identification benchmark dataset (FS48) under three camera conditions. FS48 encompasses 48 different fish identities, 10,300 frames, and 39,088 bounding boxes, covering various lighting conditions and background environments.
 ## Dataset display
-> ![Sample1](overview.jpg)
+> ![Sample1](overview.png)
 > 
 > 
 ## Update
